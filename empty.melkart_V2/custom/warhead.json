@@ -1,0 +1,324 @@
+{
+    "Objects": [
+        {
+            "name": "Land_WarheadStorage_PowerStation",
+            "pos": [
+                9267.2373046875,
+                29.052528381347658,
+                8263.1982421875
+            ],
+            "ypr": [
+                88.75727081298828,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Top",
+            "pos": [
+                9901.0751953125,
+                30.083457946777345,
+                8148.72802734375
+            ],
+            "ypr": [
+                -93.74497985839844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998318552970886,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Entrance_Roof",
+            "pos": [
+                9896.353515625,
+                32.92961120605469,
+                8170.19580078125
+            ],
+            "ypr": [
+                -93.4443359375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9997541308403015,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Main",
+            "pos": [
+                9906.361328125,
+                30.894136428833009,
+                8149.2958984375
+            ],
+            "ypr": [
+                -94.24431610107422,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9998618960380554,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rail_ConcreteRamp",
+            "pos": [
+                9895.798828125,
+                27.982664108276368,
+                8170.9501953125
+            ],
+            "ypr": [
+                85.60298156738281,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999991238117218,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rail_ConcreteRamp",
+            "pos": [
+                9894.6552734375,
+                27.988981246948243,
+                8184.74951171875
+            ],
+            "ypr": [
+                85.60298156738281,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999991238117218,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_BlastCover4_Sakhal",
+            "pos": [
+                9920.3701171875,
+                27.07826042175293,
+                8146.341796875
+            ],
+            "ypr": [
+                86.19080352783203,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0999997854232789,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Entrance",
+            "pos": [
+                9901.146484375,
+                32.32979202270508,
+                8114.8125
+            ],
+            "ypr": [
+                -93.26691436767578,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rail_ConcreteRamp",
+            "pos": [
+                9900.2451171875,
+                27.719024658203126,
+                8107.865234375
+            ],
+            "ypr": [
+                85.60298156738281,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999909400939941,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Rail_ConcreteRamp",
+            "pos": [
+                9899.5078125,
+                27.711700439453126,
+                8116.98193359375
+            ],
+            "ypr": [
+                85.6028060913086,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999899864196777,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "StaticObj_Mil_BlastCover4_Sakhal",
+            "pos": [
+                9880.80078125,
+                26.772890090942384,
+                8143.4013671875
+            ],
+            "ypr": [
+                -93.78300476074219,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999945759773254,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Room1",
+            "pos": [
+                9909.7958984375,
+                27.438037872314454,
+                8155.08544921875
+            ],
+            "ypr": [
+                -94.52368927001953,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Room2",
+            "pos": [
+                9910.240234375,
+                27.438037872314454,
+                8148.7353515625
+            ],
+            "ypr": [
+                -94.57377624511719,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Room3",
+            "pos": [
+                9910.8544921875,
+                27.419376373291017,
+                8142.5009765625
+            ],
+            "ypr": [
+                -92.86685943603516,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992251396179,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Room4",
+            "pos": [
+                9911.1728515625,
+                27.438037872314454,
+                8135.99365234375
+            ],
+            "ypr": [
+                -95.45315551757813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997019767761,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_green",
+            "pos": [
+                9896.4365234375,
+                29.225849151611329,
+                8117.1787109375
+            ],
+            "ypr": [
+                90.7237548828125,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999999463558197,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_green",
+            "pos": [
+                9897.0244140625,
+                29.219532012939454,
+                8107.4619140625
+            ],
+            "ypr": [
+                81.72379302978516,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999977946281433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_orange",
+            "pos": [
+                9889.794921875,
+                29.225849151611329,
+                8180.8291015625
+            ],
+            "ypr": [
+                81.72379302978516,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999977946281433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_wreck_truck01_aban2_green",
+            "pos": [
+                9890.16796875,
+                29.219532012939454,
+                8176.13623046875
+            ],
+            "ypr": [
+                81.72379302978516,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999977946281433,
+            "enableCEPersistency": 0,
+            "customString": ""
+        },
+        {
+            "name": "Land_WarheadStorage_Bunker_Facility",
+            "pos": [
+                9890.6953125,
+                30.233469009399415,
+                8142.5751953125
+            ],
+            "ypr": [
+                -94.24169158935547,
+                -0.1381266862154007,
+                0.010447891429066658
+            ],
+            "scale": 0.9999964833259583,
+            "enableCEPersistency": 0,
+            "customString": ""
+        }
+    ]
+}

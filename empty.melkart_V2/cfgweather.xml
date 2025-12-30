@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!-- 'reset' and 'enable' are a bool, and therefore supports: 0/1, true/false, yes/no -->
+<!-- 'reset' controls whether you want to load in the weather from storage or not (false by default) -->
+<!-- 'enable' controls whether this file is enabled or not (true by default) -->
+<weather reset="0" enable="0"> <!-- Activar el clima -->
+    <overcast>
+        <current actual="0.65" time="120" duration="300" /> <!-- Mayor nublado -->
+        <limits min="0.0" max="1.0" />
+        <timelimits min="300" max="600" /> <!-- Cambios más lentos -->
+        <changelimits min="0.1" max="0.3" /> <!-- Cambios más significativos -->
+    </overcast>
+    <fog>
+        <current actual="0.1" time="120" duration="180" /> <!-- Mayor presencia de niebla -->
+        <limits min="0.05" max="0.25" /> <!-- Ajuste en los límites -->
+        <timelimits min="600" max="900" /> <!-- Cambios más lentos -->
+        <changelimits min="0.0" max="0.2" />
+    </fog>
+    <rain>
+        <current actual="0.3" time="60" duration="180" /> <!-- Comienzo con un poco de lluvia -->
+        <limits min="0.0" max="1.0" />
+        <timelimits min="30" max="90" /> <!-- Cambios más rápidos en la lluvia -->
+        <changelimits min="0.0" max="0.5" />
+        <thresholds min="0.5" max="1.0" end="30" /> <!-- Más lluvia cuando está nublado -->
+    </rain>
+    <windMagnitude>
+        <current actual="12.0" time="120" duration="300" /> <!-- Viento más fuerte -->
+        <limit min="0.0" max="30.0" /> <!-- Ampliar el rango del viento -->
+        <timelimits min="120" max="240" />
+        <changelimits min="0.0" max="10.0" />
+    </windMagnitude>
+    <windDirection>
+        <current actual="1.57" time="120" duration="240" /> <!-- Viento del este -->
+        <limit min="-3.14" max="3.14" />
+        <timelimits min="60" max="120" />
+        <changelimits min="-1.0" max="1.0" />
+    </windDirection>
+    <snowfall>
+        <current actual="0.3" time="300" duration="1800" /> <!-- Aumentar la posibilidad de nieve -->
+        <limit min="0.0" max="0.5" /> <!-- Ampliar el rango de nieve para permitir más acumulación -->
+        <timelimits min="600" max="3600" /> <!-- Cambios más lentos en la nieve -->
+        <changelimits min="0.0" max="0.2" /> <!-- Cambios en la nieve -->
+        <thresholds min="0.7" max="1.0" end="120" /> <!-- Umbral para que la nieve aparezca -->
+    </snowfall>
+    <storm density="0.8" threshold="0.6" timeout="15"/> <!-- Menos densidad de tormentas pero más frecuentes -->
+</weather>

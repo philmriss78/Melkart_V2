@@ -1,0 +1,26 @@
+<types>
+   <!-- DO NOT CHANGE ANYTHING FROM HERE -->  
+ <type name="SmallProtectorCase_Melkart">
+    <nominal>1</nominal>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <lifetime>14400</lifetime>
+    <restock>0</restock>
+    <cost>100</cost>
+    <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+	    <usage name="Military"/>
+        <value name="Tier4"/>
+  </type>  
+  <!-- DO NOT CHANGE ANYTHING FROM HERE -->
+    <type name="Boat_Melkart_Sand">
+        <nominal>0</nominal>
+        <lifetime>3888000</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+    </type>
+</types>
