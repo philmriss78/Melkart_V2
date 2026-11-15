@@ -4,10 +4,6 @@ void main()
 	Hive ce = CreateHive();
 	if ( ce )
 		ce.InitOffline();
-//GetCEApi().ExportProxyData(Vector(10240, GetGame().SurfaceY(10240, 10240), 10240), 20480);  //Center of map, radius of how far to go out and find buildings.
-	//GetCEApi().ExportProxyProto();
-	//GetCEApi().ListCloseProxy(1024);
-//GetCEApi().ExportClusterData();	
 
 	//DATE RESET AFTER ECONOMY INIT-------------------------
 	int year, month, day, hour, minute;
